@@ -1,0 +1,71 @@
+body{
+	background-color: #ffffff;
+}
+/* HEADER + MENU NAVEGACION  */
+.nav li{
+	display: inline-block;
+	list-style: none;
+	margin-top: 1%;
+}
+.menu{
+	text-align: right;
+}
+a{
+	color: #999999;
+
+}
+/* SECCION IMAGEN FONDO + BOTON */
+.background-dos{
+	background-image: url(../img/home.jpg);
+	background-size: cover;
+	background-position: center 25%;
+	padding-bottom: 10%;
+}
+.background-dos h2{
+	color: white;
+	margin-top: 15%;
+}
+.titulo{
+	margin: 7% 0;
+}
+
+.video{
+	margin-bottom: 5%;
+}
+
+/* SECCION AMARILLA */
+.background-tres{
+	background-color: #FFFF00;
+	width: 100%;
+	padding: 3%;
+}
+.txt{
+	margin-top: 2%;
+	margin-bottom: 5%;
+}
+/* SECCION CONTACTO */
+.contacto{
+	margin: 5% 0;
+}
+.contacto h3{
+	margin-left: 3%;
+}
+.contacto p{
+	margin: 1px 0;
+}
+.enviar{
+	margin-top: 5%;
+}
+form{
+	margin-top: 5%;
+}
+/* FOOTER */
+.background-cuatro{
+	background-color: #4497a3;
+	color: white;
+	font-size: 12px;
+	padding: 3% 0;
+}
+span{
+	color: #ffff00;
+}
