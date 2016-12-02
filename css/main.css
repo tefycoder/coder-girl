@@ -10,10 +10,7 @@ body{
 .menu{
 	text-align: right;
 }
-a{
-	color: #999999;
 
-}
 /* SECCION IMAGEN FONDO + BOTON */
 .background-dos{
 	background-image: url(../img/home.jpg);
@@ -67,5 +64,5 @@ form{
 	padding: 3% 0;
 }
 span{
-	color: #ffff00;
+	color: #333;
 }
